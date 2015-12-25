@@ -1,0 +1,37 @@
+.testimonials{
+    color: white;
+    background-color: #f73a4c;
+    padding: 70px;
+}
+.testimonialsTitle{
+    padding: 30px;
+    text-align: center;
+
+}
+.testimonialsTitle h1{
+    font-size: 55px;
+    font-weight: bold;
+}
+.centerSide{
+    text-align: center;
+}
+.border{
+    border: 1px solid greenyellow;
+    display: inline-block;
+}
+.centerImg{
+
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.testimonials .glyphicon{
+    font-size: 50px;
+}
+.rideSide{
+    text-align: center;
+    padding-top: 10%;
+}
+.testimonialsFooter{
+    text-align: center;
+}

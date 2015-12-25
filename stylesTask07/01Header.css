@@ -1,0 +1,51 @@
+header{
+    color: white;
+}
+header a{
+    display: block;
+    padding: 10px;
+    color: white;
+}
+.topLine{
+    background-color: black;
+}
+.titleMovies{
+    text-align: center;
+}
+.firstNav{
+
+    background-color: black;
+
+}
+.firstNav li{
+    display: inline-block;
+    float: right;
+
+}
+.firstNav a {
+    color: white;
+}
+
+.redLIne{
+    background-color: #9B0808;
+}
+.secondNav a:hover{
+    color: white;
+}
+
+.secondNav ul li{
+    display: inline-block;
+    padding: 30px 0px;
+    text-align: right;
+}
+
+
+@media screen and (max-width: 1200px) {
+
+    .secondNav ul li{
+        display: inline-block;
+        padding: 3px 0px;
+        text-align: center;
+    }
+
+}

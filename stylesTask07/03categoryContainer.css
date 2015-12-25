@@ -1,0 +1,36 @@
+.categoryContainer{
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+}
+.categoryContent{
+    text-align: center;
+    margin: 0 auto;
+    width: 650px;
+}
+.categoryHeader h1{
+    font-size: 35px;
+}
+.categoryContent a{
+    color: white;
+}
+.categoryContent li{
+    text-align: left;
+}
+.ulItems{
+    margin: 60px 0px;
+}
+.categoryContent .btn{
+
+
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 160px;
+    font-size: 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: rgba(0,0,0,0.0);
+    display: block;
+}

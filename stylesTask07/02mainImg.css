@@ -1,0 +1,70 @@
+.mainImg{
+    border: 1px solid black;
+   background-image: url("resurs/Ex_Machina-368494509-large.jpg");
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.overImg{
+    border: 1px solid red;
+    text-align: center;
+    margin-top: 20%;
+    color: white;
+}
+.overImg > h1{
+    font-size: 60px;
+}
+.overImg > p{
+    font-size: 20px;
+}
+/*
+.twoButtons button{
+    margin: 0 auto;
+    width: 160px;
+    font-size: 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: rgba(0,0,0,0.0);
+}
+*/
+
+
+.btn{
+
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 160px;
+    font-size: 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: rgba(0,0,0,0.0);
+}
+.btn:hover{
+    background-color: #9B0808;
+}
+
+.fewPictures{
+
+    margin-top: 100px;
+    border: 1px solid greenyellow;
+
+    text-align: center;
+
+}
+.img1{
+    margin: 0 auto;
+    width: 180px;
+
+}
+
+@media screen and (max-width: 1200px) {
+
+    .img1{
+        display: none;
+    }
+
+}
